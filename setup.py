@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "r") as fh:
+with open("README.md", "rpython setup.py sdist bdist_wheel") as fh:
     long_description = fh.read()
 
 setuptools.setup(
