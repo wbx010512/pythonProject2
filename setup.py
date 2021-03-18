@@ -11,7 +11,7 @@ setuptools.setup(
     description="a example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/wbx010512/pythonProject.git",
+    url="https://github.com/wbx010512/pythonProject2.git",
     packages=setuptools.find_packages(),
     install_requires=[''],
     classifiers=[
