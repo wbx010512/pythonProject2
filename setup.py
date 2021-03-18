@@ -1,6 +1,6 @@
 import setuptools
 
-with open("README.md", "rpython setup.py sdist bdist_wheel") as fh:
+with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
@@ -20,6 +20,3 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
 )
-
-
-# 下载 git
